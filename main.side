@@ -1,1 +1,7 @@
 main.c
+>compiler=C
+>memtype=lmm main ram
+>optimize=-Os
+>-m32bit-doubles
+>-fno-exceptions
+>BOARD::ACTIVITYBOARD
